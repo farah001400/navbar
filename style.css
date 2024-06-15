@@ -1,0 +1,10 @@
+.logo{
+    width: 90px;
+}
+.nav>li:hover{
+    background-color: white;
+}
+.nav>li>a:hover{
+    color: black !important;
+    font-weight: bold;
+}
